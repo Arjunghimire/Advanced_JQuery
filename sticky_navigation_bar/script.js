@@ -1,5 +1,4 @@
 $(document).ready(function(){
-
 	// define varible
 	var navOffset, scrollPosition = 0;
 	navOffset = $(".nav").offset().top;
